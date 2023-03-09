@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favFragment"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/pointsFragment"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="Points" />
+    <item
+        android:id="@+id/logoutFragment"
+        android:icon="@drawable/ic_baseline_logout_24"
+        android:title="Logout" />
+</menu>

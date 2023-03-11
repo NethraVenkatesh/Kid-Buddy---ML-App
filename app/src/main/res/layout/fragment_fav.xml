@@ -51,14 +51,11 @@
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/numbers"
                 android:layout_width="380dp"
-                android:layout_height="wrap_content"
+                android:layout_height="250dp"
                 android:layout_gravity="center"
                 android:paddingTop="100dp"
                 android:paddingBottom="100dp"
-                android:background="@drawable/button_bg"
-                android:text="SHAPES"
-                android:textSize="40sp"
-                android:fontFamily="sans-serif-condensed"/>
+                android:background="@drawable/shapesbutton" />
 
         </LinearLayout>
     </HorizontalScrollView>
